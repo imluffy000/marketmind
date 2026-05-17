@@ -1,3 +1,5 @@
+# you can access the application using : https://marketmind0.streamlit.app/
+
 # 🧠 MarketMind AI
 
 MarketMind AI is a powerful, multi-agent financial analysis system built with **LangGraph**, **Streamlit**, and **Groq** (running Llama 3 models). It utilizes a parallel fan-out architecture where multiple specialist AI agents concurrently analyze different dimensions of an asset (both stocks and crypto), before a lead synthesis agent evaluates all signals to generate a final trading verdict.
